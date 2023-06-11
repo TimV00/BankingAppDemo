@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SimpleBankingApp</string>
+    <!-- Strings related to login -->
+    <string name="title_banking">FT Bank</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_register">Register</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_credits">By Timothy Vo and Fadi Akram</string>
+    <!-- Strings related to transactions -->
+    <string name="Transactions">Transactions</string>
+    <string name="welcome_name">Welcome: </string>
+    <string name="balance">Balance: </string>
+    <string name="action_deposit">Deposit </string>
+    <string name="action_withdraw">Withdraw </string>
+    <string name="temp_balance">temp_balance </string>
+    <string name="temp_user">temp_user </string>
+    <string name="prompt_amount">Insert Deposit or Withdrawal Amount </string>
+    <string name="action_logout">Logout </string>
+    <string name="action_history">View Transaction History </string>
+    <!-- Strings related to transactions -->
+    <string name="title_history">Transaction History </string>
+    <!-- Strings related to registration -->
+    <string name="prompt_deposit">Insert Initial Deposit Amount </string>
+    <string name="action_return">Return </string>
+    <string name="title_registration">Registration </string>
+</resources>
