@@ -2,7 +2,7 @@
 Simple banking app that utilizes SharedPreferences API to implement features such as a functional user registration and login, deposit and withdrawal of funds, and the ability to view transaction history for the session.
 
 Screenshots of the app:
-**Login Screen**
+**Login Screen**\
 ![image](https://github.com/TimV00/BankingAppDemo/assets/136244406/eb59c050-c20b-4bb4-bb9d-3b781a36053e)
 **Registration**
 ![image](https://github.com/TimV00/BankingAppDemo/assets/136244406/228f89be-e7f2-448a-b701-3f95169887d7)
