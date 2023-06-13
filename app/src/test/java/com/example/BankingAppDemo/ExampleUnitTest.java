@@ -1,4 +1,4 @@
-package com.example.finalproject_simplebanking;
+package com.example.BankingAppDemo;
 
 import org.junit.Test;
 

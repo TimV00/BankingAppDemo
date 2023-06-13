@@ -1,4 +1,4 @@
-package com.example.finalproject_simplebanking;
+package com.example.BankingAppDemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.SharedPreferences;
@@ -8,9 +8,6 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import java.util.List;
-import java.util.*;
 
 public class MainActivity extends AppCompatActivity {
     int i;
